@@ -1,21 +1,32 @@
-MIT License
+e2proxy - Proprietary License
+Copyright (c) 2026 RouteKernel  (Telegram: https://t.me/routekernel1)
+All rights reserved.
 
-Copyright (c) 2026 Ali K.
+1. Grant. Subject to these terms, the author grants the end user a personal,
+   non-exclusive, non-transferable licence to install and run the unmodified
+   e2proxy plugin on Enigma2 receivers owned or controlled by that user.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+2. Restrictions. You may NOT, in whole or in part:
+   (a) copy, republish, mirror or redistribute the software or its source;
+   (b) modify, adapt, translate or create derivative works;
+   (c) reverse engineer, decompile or disassemble, except to the limited
+       extent such restriction is prohibited by applicable law;
+   (d) remove or alter any copyright, licence or integrity notice; or
+   (e) use the software to provide a commercial service without prior
+       written permission of the author.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+3. Integrity. The software ships with a manifest of file hashes signed with
+   the author's private key. Any modification of the shipped files is a
+   breach of this licence and is detected and recorded by the software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+4. Third-party components. This product bundles PySocks (socks.py, file
+   "_socks.py"), Copyright (c) 2006 Dan-Haim and contributors, distributed
+   under the BSD 3-Clause licence; see the header of that file. That
+   component remains under its original licence.
+
+5. No warranty. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+   KIND. THE AUTHOR IS NOT LIABLE FOR ANY CLAIM, DAMAGE OR OTHER LIABILITY
+   ARISING FROM THE SOFTWARE OR ITS USE.
+
+Unauthorized copying or distribution of this software, via any medium, is
+strictly prohibited.
