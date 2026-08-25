@@ -36,19 +36,6 @@ Telegram: **https://t.me/routekernel1**
   pure-Python RSA verifier; tampering is detected and logged, and starting the
   proxy is refused. Copyright/licence header on every source file.
 
-## Build
-
-Requires Python 3 with Pillow and cryptography (build host only).
-
-```bash
-./build.sh
-# -> build/e2proxy_<version>_all.deb   (DreamOS: apt/dpkg)
-# -> build/e2proxy_<version>_all.ipk   (OE images: opkg)
-```
-
-The RSA **private key** is generated once into `keys/private.pem` and must be
-kept secret and never shipped. Only the public key is embedded in the plugin.
-
 ## Install
 
 Copy the package to the receiver's `/tmp` and install:
