@@ -63,3 +63,18 @@ script.
 
 Bundles **PySocks** (`_socks.py`, BSD-3-Clause, © 2006 Dan-Haim). See the file
 header. All other files are proprietary – see `LICENSE`.
+
+---
+
+## 💚 Support this project
+
+If this project has been useful to you, you can support it with Tether:
+
+**USDT — BEP20 (BSC) network only**
+
+```
+0x56daaa6b76d88ee0c8dba8042121f4b77de0a813
+```
+
+> [!WARNING]
+> This address is for USDT on the BEP20 (BSC) network only. Any other coin, or USDT sent over any other network, is lost.
